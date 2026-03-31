@@ -6,7 +6,7 @@
 
 **We design AI-powered websites & automation systems for businesses ready to scale.**
 
-`30+ Live Projects` `8+ Industries` `React · Next.js · Python · n8n`
+`30+ Live Projects` `8+ Industries` `React · Next.js · Python · n8n · GPT-4.1 · Gemini`
 
 <br>
 
@@ -97,6 +97,19 @@ Built for judges and legal professionals — AI case analysis, document review, 
 </td>
 </tr>
 <tr>
+<td width="50%" colspan="2">
+
+### 🤖 [AEO Content Engine v7.0](https://github.com/waseemnasir2k26/aeo-content-engine)
+**Automated AI content pipeline — GPT-4.1 + Gemini 2.5 Flash**
+Weekly AEO-optimized articles, newsletters, and video scripts. Two-model pipeline with free keyword research, 52-week content dedup, branded email delivery with CMS-ready attachments. Built for agencies.
+
+`n8n` `GPT-4.1` `Gemini 2.5 Flash` `AEO` `Content Automation`
+
+[**View on GitHub →**](https://github.com/waseemnasir2k26/aeo-content-engine)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🛒 [LUXE E-Commerce](https://github.com/waseemnasir2k26/ecommerce-website)
@@ -165,6 +178,12 @@ Property listings, search & filtering, virtual tour integration, Framer Motion
 | [CPG Synergy](https://github.com/waseemnasir2k26/cpg-synergy-redesign) — CPG agency, 5 design variants | React, Framer Motion | [Live →](https://cpg-synergy-redesign.vercel.app) |
 | [Ferrante Media](https://github.com/waseemnasir2k26/ferrante-media-premium) — AI automation for home services | React, TypeScript | [Live →](https://ferrante-media-premium.vercel.app) |
 | [SOOR Technologies](https://github.com/waseemnasir2k26/soor-technologies) — Odoo ERP partner, Kuwait | React, JavaScript | [Live →](https://soor-technologies.vercel.app) |
+
+**🤖 AI & Content Automation**
+| Project | Tech | Demo |
+|---------|------|------|
+| [AEO Content Engine](https://github.com/waseemnasir2k26/aeo-content-engine) — GPT-4.1 + Gemini 2.5 Flash content pipeline, AEO-optimized | n8n, GPT-4.1, Gemini | [GitHub →](https://github.com/waseemnasir2k26/aeo-content-engine) |
+| [AI Video Editor](https://github.com/waseemnasir2k26/ai-video-editor) — Multi-version video editing with Claude Code + FFmpeg | Python, FFmpeg, pycaps | [GitHub →](https://github.com/waseemnasir2k26/ai-video-editor) |
 
 **🛠️ SaaS & Developer Tools**
 | Project | Tech | Demo |
