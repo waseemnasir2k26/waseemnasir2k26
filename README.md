@@ -99,6 +99,19 @@ Built for judges and legal professionals — AI case analysis, document review, 
 <tr>
 <td width="50%" colspan="2">
 
+### 🎯 [Fiverr Gig Optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer)
+**Open-source Claude Code skill for Fiverr domination**
+AI-powered tool that generates research-backed gig strategies — optimized titles, descriptions, tags, pricing, professional thumbnails (1280x769), and cross-sell funnels. Run `/fiverr-optimize` and get a complete catalog in 15 minutes. [PDF Guide included.](https://github.com/waseemnasir2k26/fiverr-gig-optimizer/blob/master/docs/Fiverr-Gig-Optimizer-Guide.pdf)
+
+`Claude Code` `Python` `AI Strategy` `Fiverr` `Freelancing`
+
+[**View on GitHub →**](https://github.com/waseemnasir2k26/fiverr-gig-optimizer)
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
 ### 🤖 [AEO Content Engine v7.0](https://github.com/waseemnasir2k26/aeo-content-engine)
 **Automated AI content pipeline — GPT-4.1 + Gemini 2.5 Flash**
 Weekly AEO-optimized articles, newsletters, and video scripts. Two-model pipeline with free keyword research, 52-week content dedup, branded email delivery with CMS-ready attachments. Built for agencies.
@@ -182,6 +195,7 @@ Property listings, search & filtering, virtual tour integration, Framer Motion
 **🤖 AI & Content Automation**
 | Project | Tech | Demo |
 |---------|------|------|
+| [Fiverr Gig Optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer) — Claude Code skill: AI-generated Fiverr gig strategies, thumbnails, pricing | Claude Code, Python | [GitHub →](https://github.com/waseemnasir2k26/fiverr-gig-optimizer) |
 | [AEO Content Engine](https://github.com/waseemnasir2k26/aeo-content-engine) — GPT-4.1 + Gemini 2.5 Flash content pipeline, AEO-optimized | n8n, GPT-4.1, Gemini | [GitHub →](https://github.com/waseemnasir2k26/aeo-content-engine) |
 | [AI Video Editor](https://github.com/waseemnasir2k26/ai-video-editor) — Multi-version video editing with Claude Code + FFmpeg | Python, FFmpeg, pycaps | [GitHub →](https://github.com/waseemnasir2k26/ai-video-editor) |
 
