@@ -1,12 +1,28 @@
+<!--
+═══════════════════════════════════════════════════════════════════════════════
+ Waseem Nasir — AI Automation Agency Founder | Skynet Labs / SkynetJoe
+ Hire for: n8n workflow development · GoHighLevel automation · Claude Code skills
+            AI agents · Next.js websites · Python automation · custom GPT/Gemini
+            chatbots · lead funnels · AEO content engines · Fiverr & Upwork pro
+ Industries: Healthcare · Telehealth · Legal Tech · Real Estate · E-Commerce
+             Logistics · Maritime · HVAC · Home Services · SaaS · Consulting
+ Stack: React · Next.js · TypeScript · Python · n8n · WordPress · Tailwind CSS
+        Vercel · Supabase · Stripe · GoHighLevel · OpenAI · Anthropic · Gemini
+ Keywords: AI automation agency, n8n developer for hire, GoHighLevel expert,
+           Claude Code skill builder, AI agent developer, custom AI chatbot,
+           lead funnel developer, AEO content engine, freelance AI engineer
+═══════════════════════════════════════════════════════════════════════════════
+-->
+
 <div align="center">
 
 # Waseem Nasir
 
-### Founder @ [Skynet Labs](https://www.skynetjoe.com) — AI Automation Agency
+### AI Automation Agency Founder · n8n + GoHighLevel + Claude Code + Next.js + Python
 
-**We design AI-powered websites & automation systems for businesses ready to scale.**
+**Founder @ [Skynet Labs](https://www.skynetjoe.com) — I build AI-powered websites, automation workflows, and revenue systems for agencies, startups, and Fortune 500 teams.**
 
-`30+ Live Projects` `8+ Industries` `React · Next.js · Python · n8n · GPT-4.1 · Gemini`
+`50+ Live Projects` · `8+ Industries` · `React · Next.js · Python · n8n · GoHighLevel · GPT-4.1 · Claude · Gemini`
 
 <br>
 
@@ -230,6 +246,30 @@ Property listings, search & filtering, virtual tour integration, Framer Motion
 | [Main Clim](https://github.com/waseemnasir2k26/mainclim-website) — Professional HVAC website, Benin — 3 variants | Next.js 14, TypeScript, Framer Motion | [Live →](https://mainclim-website.vercel.app) |
 
 </details>
+
+---
+
+## Services I Offer
+
+> Available for freelance, contract, retainer, and full agency engagements. Both **Fiverr** and **Upwork** verified, plus direct via [skynetjoe.com](https://www.skynetjoe.com).
+
+| Service | What You Get | Starts At |
+|---|---|---|
+| **n8n Workflow Development** | Custom n8n workflows, AI integrations, webhook orchestration, GPT-4/Claude/Gemini chains | $250 |
+| **GoHighLevel Setup & Automation** | GHL snapshots, funnels, pipelines, bulk CSV scheduling, SMS/email sequences | $500 |
+| **Claude Code Skills & Agents** | Custom Claude Code skills, AI agent design, prompt engineering, MCP servers | $750 |
+| **AI Chatbots & Voice Agents** | OpenAI/Anthropic chatbots, Vapi voice agents, Telegram/WhatsApp bots, ManyChat IG DMs | $400 |
+| **AI-Powered Websites (Next.js / React)** | Premium Next.js + Tailwind sites, Framer Motion animations, Vercel deployment | $1,500 |
+| **WordPress + WooCommerce Builds** | Custom themes, premium funnels, payment integrations, headless WP | $800 |
+| **Lead Funnel & AEO Content Engines** | n8n + GPT-4.1 + Gemini content pipelines, weekly automated articles, AEO optimization | $2,000 |
+| **SaaS MVPs & Dashboards** | Full-stack SaaS MVPs with Supabase, auth, Stripe, multi-tenant architecture | $3,500 |
+| **Industry-Specific Web Design** | Healthcare, Legal, Real Estate, E-Commerce, Logistics, HVAC, Maritime | $1,200 |
+
+**🎯 Why agencies and founders hire me:** every project ships **fast**, every site is **deployed live**, every workflow is **production-tested**. No demos that never launch. No half-built MVPs. 50+ projects shipped, all visible above.
+
+[![Hire on Fiverr](https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/agencies/skynetjoellc)
+[![Hire on Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01)
+[![Direct Hire](https://img.shields.io/badge/Direct_Hire_via_Calendly-FF6B35?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/skynetlabs/schedule-a-free-consultation)
 
 ---
 
