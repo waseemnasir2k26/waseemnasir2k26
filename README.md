@@ -16,242 +16,174 @@
 
 <div align="center">
 
-# Waseem Nasir
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Waseem%20Nasir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20Agency%20%7C%2050%2B%20Live%20Projects%20%7C%208%2B%20Industries&descSize=18&descAlignY=55&descColor=58a6ff" width="100%" />
 
-### AI Automation Agency Founder · n8n + GoHighLevel + Claude Code + Next.js + Python
+### Founder @ [Skynet Labs](https://www.skynetjoe.com) — AI-powered websites, automation workflows & revenue systems
 
-**Founder @ [Skynet Labs](https://www.skynetjoe.com) — I build AI-powered websites, automation workflows, and revenue systems for agencies, startups, and Fortune 500 teams.**
+<br>
 
-`50+ Live Projects` · `8+ Industries` · `React · Next.js · Python · n8n · GoHighLevel · GPT-4.1 · Claude · Gemini`
+<table>
+<tr>
+<td align="center"><b>54+</b><br><sub>Repositories</sub></td>
+<td align="center"><b>50+</b><br><sub>Live Projects</sub></td>
+<td align="center"><b>8+</b><br><sub>Industries</sub></td>
+<td align="center"><b>5</b><br><sub>Countries</sub></td>
+</tr>
+</table>
 
 <br>
 
 [![Book a Strategy Call](https://img.shields.io/badge/%F0%9F%93%85_Book_a_Free_Strategy_Call-FF6B35?style=for-the-badge&logoColor=white)](https://calendly.com/skynetlabs/schedule-a-free-consultation)
+&nbsp;
 [![Website](https://img.shields.io/badge/%F0%9F%8C%90_skynetjoe.com-000000?style=for-the-badge)](https://www.skynetjoe.com)
+&nbsp;
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Us-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/agencies/skynetjoellc)
 
 </div>
 
 ---
 
-## What We Build
+## Recent Client Work
 
-> From concept to deployed product — premium digital experiences powered by AI.
-> Every project below is **live and deployed**. Click any demo link to see it in action.
-
-| Industry | What We Deliver | Live Demo |
-|:---------|:---------------|:----------|
-| 🏥 **Healthcare** | Telehealth platforms, GLP-1/GLP-2 funnels, bilingual medical sites | [VitalPath Telehealth →](https://glp2-telehealth.vercel.app) · [Medical Funnel →](https://axis-rx-funnel.vercel.app) · [CaringHands →](https://caringhands-homecare.vercel.app) |
-| ⚖️ **Legal Tech** | AI-powered legal analysis platform for judges & attorneys | [JudgeAI →](https://judgeai-eta.vercel.app) |
-| 🏠 **Real Estate** | Property listing sites with search, filtering, Framer Motion | [MN Realty Co →](https://mn-realty-co.vercel.app) |
-| 🛒 **E-Commerce** | Full-stack online stores with cart, checkout, payment flow | [LUXE Store →](https://ecommerce-website-gray-gamma.vercel.app) |
-| 🚛 **Logistics** | Load broker portals, freight SaaS with bidding & tracking | [FreightCommand →](https://load-broker-portal.vercel.app) · [Limenis Maritime →](https://limenis-website.vercel.app) |
-| 💼 **Consulting** | Multi-variant agency sites with lead funnels & animations | [Ascend Consulting →](https://consulting-firm-phi.vercel.app) · [CPG Synergy →](https://cpg-synergy-redesign.vercel.app) |
-| ❄️ **HVAC & Home Services** | Service booking websites with 3 landing page variants | [Main Clim →](https://mainclim-website.vercel.app) · [Ferrante Media →](https://ferrante-media-premium.vercel.app) |
-| 🛠️ **SaaS & Tools** | Productivity toolkits, dashboards, Chrome extensions, AI tools | [Skynet Labs Toolkit →](https://skynetlabs-toolkit.vercel.app) · [Contact Extractor →](https://contact-extractor-black.vercel.app) |
-
----
-
-## Tech Stack
-
-**Frontend & Frameworks**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-
-**Platforms & Deployment**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B35?style=for-the-badge&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-
----
-
-## Featured Projects
+> Every project is **live and deployed**. Click to see it in action.
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛠️ [Skynet Labs Toolkit](https://github.com/waseemnasir2k26/skynetlabs-toolkit)
-**47 free tools for freelancers & agencies**
-AI ROI Calculator, Rate Calculator, Proposal Builder, Content Calendar, Project Tracker, Client Onboarding & NDA System
+### <img src="https://img.shields.io/badge/CLIENT-FF6B35?style=flat-square" /> [Pretty Potty NYC](https://github.com/waseemnasir2k26/pretty-potty)
+**Luxury Mobile Restroom Rentals — Long Island, NY**
 
-`React` `Vite` `Supabase` `Vercel`
-
-[**Live Demo →**](https://skynetlabs-toolkit.vercel.app)
-
-</td>
-<td width="50%">
-
-### ⚖️ [JudgeAI](https://github.com/waseemnasir2k26/judgeai)
-**AI-powered legal analysis platform**
-Built for judges and legal professionals — AI case analysis, document review, legal research automation
-
-`TypeScript` `Next.js` `Tailwind CSS` `OpenAI`
-
-[**Live Demo →**](https://judgeai-eta.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
-
-### 🎯 [Fiverr Gig Optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer)
-**Open-source Claude Code skill for Fiverr domination**
-AI-powered tool that generates research-backed gig strategies — optimized titles, descriptions, tags, pricing, professional thumbnails (1280x769), and cross-sell funnels. Run `/fiverr-optimize` and get a complete catalog in 15 minutes. [PDF Guide included.](https://github.com/waseemnasir2k26/fiverr-gig-optimizer/blob/master/docs/Fiverr-Gig-Optimizer-Guide.pdf)
-
-`Claude Code` `Python` `AI Strategy` `Fiverr` `Freelancing`
-
-[**View on GitHub →**](https://github.com/waseemnasir2k26/fiverr-gig-optimizer)
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
-
-### 🤖 [AEO Content Engine v7.0](https://github.com/waseemnasir2k26/aeo-content-engine)
-**Automated AI content pipeline — GPT-4.1 + Gemini 2.5 Flash**
-Weekly AEO-optimized articles, newsletters, and video scripts. Two-model pipeline with free keyword research, 52-week content dedup, branded email delivery with CMS-ready attachments. Built for agencies.
-
-`n8n` `GPT-4.1` `Gemini 2.5 Flash` `AEO` `Content Automation`
-
-[**View on GitHub →**](https://github.com/waseemnasir2k26/aeo-content-engine)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 [LUXE E-Commerce](https://github.com/waseemnasir2k26/ecommerce-website)
-**Premium online store with full shopping experience**
-Product catalog, cart system, checkout flow, responsive design, category filtering
-
-`React` `Vite` `Tailwind CSS`
-
-[**Live Demo →**](https://ecommerce-website-gray-gamma.vercel.app)
-
-</td>
-<td width="50%">
-
-### 🚛 [FreightCommand](https://github.com/waseemnasir2k26/load-broker-portal)
-**Load broker portal & freight logistics SaaS**
-Role-based access, load bidding system, real-time tracking, carrier scoring dashboard
-
-`React 19` `Vite` `Tailwind CSS`
-
-[**Live Demo →**](https://load-broker-portal.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💼 [Ascend Consulting](https://github.com/waseemnasir2k26/consulting-firm)
-**Professional consulting firm — 3 landing page variants**
-Lead funnels, service pages, team sections, Framer Motion animations
+5 landing page variants, WhatsApp booking, service area targeting, luxury glassmorphism UI with gold accents.
 
 `React` `Vite` `Tailwind CSS` `Framer Motion`
 
-[**Live Demo →**](https://consulting-firm-phi.vercel.app)
+[**Live Demo →**](https://pretty-potty.vercel.app)
 
 </td>
 <td width="50%">
 
-### 🏠 [MN Realty Co](https://github.com/waseemnasir2k26/mn-realty-co)
-**Modern real estate website**
-Property listings, search & filtering, virtual tour integration, Framer Motion
+### <img src="https://img.shields.io/badge/CLIENT-FF6B35?style=flat-square" /> [What's The Move](https://github.com/waseemnasir2k26/whats-the-move)
+**Labor-Only Moving Company — Charleston, SC**
 
-`Next.js` `TypeScript` `Tailwind CSS`
+7-page marketing site with instant quote calculator, truck recommender AI, live chat "Charlie", service area maps, and full roadmap.
 
-[**Live Demo →**](https://mn-realty-co.vercel.app)
+`React 18` `Vite` `Tailwind CSS` `Framer Motion`
+
+[**Live Demo →**](https://whats-the-move-nine.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/CLIENT-FF6B35?style=flat-square" /> [Hepatologia Course](https://github.com/waseemnasir2k26/hepatologia-course)
+**Medical Education Platform — Lima, Peru**
+
+Bilingual (Spanish) course platform for cirrhosis patients. 3 modules + 3 bonuses, student portal with Vimeo, quiz system, Mercado Pago checkout.
+
+`HTML/CSS/JS` `WordPress-Ready` `Vimeo` `Mercado Pago`
+
+[**Live Demo →**](https://hepatologia-course.vercel.app)
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/CLIENT-FF6B35?style=flat-square" /> [Recipe Website](https://github.com/waseemnasir2k26/recipe-website)
+**Digital Recipe E-Commerce — Upwork Client**
+
+18 recipes, bundle builder, $9.99 subscription model, Stripe/PayPal checkout, admin dashboard with analytics, complete digital product storefront.
+
+`React` `Vite` `Tailwind CSS` `Stripe` `PayPal`
+
+[**Live Demo →**](https://recipe-website-sand-theta.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/CLIENT-FF6B35?style=flat-square" /> [CPG Synergy](https://github.com/waseemnasir2k26/cpg-synergy-redesign)
+**Consumer Goods Consulting Agency Redesign**
+
+5 unique design variants with animated transitions, lead funnels, and interactive design selector for the client to choose.
+
+`React` `Framer Motion` `Vite` `Tailwind CSS`
+
+[**Live Demo →**](https://cpg-synergy-redesign.vercel.app)
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/CLIENT-FF6B35?style=flat-square" /> [Main Clim](https://github.com/waseemnasir2k26/mainclim-website)
+**HVAC & Climate Services — Benin, West Africa**
+
+3 landing page variants, service booking, French-ready bilingual architecture, Framer Motion animations.
+
+`Next.js 14` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+[**Live Demo →**](https://mainclim-website.vercel.app)
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>📂 View All 30+ Projects by Industry</b></summary>
+---
 
-<br>
+## AI Products & Automation Tools
 
-**🏥 Healthcare & Telehealth**
-| Project | Tech | Demo |
-|---------|------|------|
-| [Axis RX Funnel](https://github.com/waseemnasir2k26/axis-rx-funnel) — GLP-1 medical funnel, 3 landing page variants | TypeScript, React, Tailwind | [Live →](https://axis-rx-funnel.vercel.app) |
-| [VitalPath Telehealth](https://github.com/waseemnasir2k26/glp2-telehealth) — GLP-2 telehealth platform | Next.js 14, TypeScript | [Live →](https://glp2-telehealth.vercel.app) |
-| [Healthcare Landing](https://github.com/waseemnasir2k26/healthcare-landing) — Bilingual medical platform | React, Tailwind CSS | [Live →](https://healthcare-landing-murex.vercel.app) |
-| [CaringHands Homecare](https://github.com/waseemnasir2k26/caringhands-homecare) — Professional homecare services | React, Tailwind CSS | [Live →](https://caringhands-homecare.vercel.app) |
+<table>
+<tr>
+<td width="50%">
 
-**💼 Consulting & Agency**
-| Project | Tech | Demo |
-|---------|------|------|
-| [CPG Synergy](https://github.com/waseemnasir2k26/cpg-synergy-redesign) — CPG agency, 5 design variants | React, Framer Motion | [Live →](https://cpg-synergy-redesign.vercel.app) |
-| [Ferrante Media](https://github.com/waseemnasir2k26/ferrante-media-premium) — AI automation for home services | React, TypeScript | [Live →](https://ferrante-media-premium.vercel.app) |
-| [SOOR Technologies](https://github.com/waseemnasir2k26/soor-technologies) — Odoo ERP partner, Kuwait | React, JavaScript | [Live →](https://soor-technologies.vercel.app) |
+### [AEO Content Engine v7.0](https://github.com/waseemnasir2k26/aeo-content-engine)
+**Automated AI content pipeline for agencies**
 
-**🤖 AI & Content Automation**
-| Project | Tech | Demo |
-|---------|------|------|
-| [Fiverr Gig Optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer) — Claude Code skill: AI-generated Fiverr gig strategies, thumbnails, pricing | Claude Code, Python | [GitHub →](https://github.com/waseemnasir2k26/fiverr-gig-optimizer) |
-| [AEO Content Engine](https://github.com/waseemnasir2k26/aeo-content-engine) — GPT-4.1 + Gemini 2.5 Flash content pipeline, AEO-optimized | n8n, GPT-4.1, Gemini | [GitHub →](https://github.com/waseemnasir2k26/aeo-content-engine) |
-| [AI Video Editor](https://github.com/waseemnasir2k26/ai-video-editor) — Multi-version video editing with Claude Code + FFmpeg | Python, FFmpeg, pycaps | [GitHub →](https://github.com/waseemnasir2k26/ai-video-editor) |
+Two-model pipeline (GPT-4.1 + Gemini 2.5 Flash). Weekly AEO-optimized articles, newsletters, video scripts. Free keyword research, 52-week dedup, branded email delivery. Running live for multiple agency clients.
 
-**🛠️ SaaS & Developer Tools**
-| Project | Tech | Demo |
-|---------|------|------|
-| [Contact Extractor](https://github.com/waseemnasir2k26/contact-extractor) — Extract emails, phones & socials from any website | Python | [Live →](https://contact-extractor-black.vercel.app) |
-| [Social Media Dashboard](https://github.com/waseemnasir2k26/social-media-dashboard) — Multi-platform posting with OAuth | Python, React | [Live →](https://social-media-dashboard-five-zeta.vercel.app) |
-| [FreelanceFlow AI](https://github.com/waseemnasir2k26/freelanceflow-ai-extension) — AI message enhancement Chrome extension | JavaScript, OpenAI, Ollama | — |
-| [VEO3 Scene Generator](https://github.com/waseemnasir2k26/veo3-scene-generator) — AI video scene generation tool | TypeScript | [Live →](https://veo3-scene-generator.vercel.app) |
+`n8n` `GPT-4.1` `Gemini 2.5 Flash` `AEO` `Content Automation`
 
-**🏠 Real Estate & Property**
-| Project | Tech | Demo |
-|---------|------|------|
-| [MN Realty Co](https://github.com/waseemnasir2k26/mn-realty-co) — Modern real estate platform | Next.js, TypeScript, Framer Motion | [Live →](https://mn-realty-co.vercel.app) |
+</td>
+<td width="50%">
 
-**🚛 Logistics & Maritime**
-| Project | Tech | Demo |
-|---------|------|------|
-| [Limenis Global Advisory](https://github.com/waseemnasir2k26/limenis-website) — Maritime & port operations consulting | TypeScript, Next.js | [Live →](https://limenis-website.vercel.app) |
+### [Skynet Labs Toolkit](https://github.com/waseemnasir2k26/skynetlabs-toolkit)
+**47 free tools for freelancers & agencies**
 
-**🎨 Portfolios & Creative**
-| Project | Tech | Demo |
-|---------|------|------|
-| [Designer Portfolio](https://github.com/waseemnasir2k26/designstudio-portfolio) — Graphic designer portfolio with Stripe booking | React, Framer Motion, Stripe | — |
-| [Dominique McClaney](https://github.com/waseemnasir2k26/dominique-mcclaney-portfolio) — Full-stack engineer portfolio | React, JavaScript | [Live →](https://dominique-mcclaney-portfolio.vercel.app) |
-| [3D Scroll Hero](https://github.com/waseemnasir2k26/scroll-hero) — Adaline.ai-style 3D scroll animation | Next.js, GSAP, Three.js | [Live →](https://scroll-hero-kohl.vercel.app) |
+AI ROI Calculator, Rate Calculator, Proposal Builder, Content Calendar, Scope Tracker, Testimonial Collector, Project Tracker, AI Readiness Quiz, Client Onboarding & NDA System. Live with Supabase analytics.
 
-**❄️ HVAC & Home Services**
-| Project | Tech | Demo |
-|---------|------|------|
-| [Main Clim](https://github.com/waseemnasir2k26/mainclim-website) — Professional HVAC website, Benin — 3 variants | Next.js 14, TypeScript, Framer Motion | [Live →](https://mainclim-website.vercel.app) |
+`React` `Vite` `Supabase` `Vercel` &nbsp; [**Live →**](https://skynetlabs-toolkit.vercel.app)
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [AI Video Editor](https://github.com/waseemnasir2k26/ai-video-editor)
+**Multi-version video editing pipeline**
+
+Claude Code + FFmpeg + Python + pycaps. Batch-render social media reels with captions, BGM, transitions. Built for content agencies.
+
+`Python` `FFmpeg` `Claude Code` `pycaps`
+
+</td>
+<td width="50%">
+
+### [Fiverr Gig Optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer)
+**AI-powered Fiverr gig strategy generator**
+
+Claude Code skill that generates research-backed titles, descriptions, tags, pricing, thumbnails, and cross-sell funnels. Full catalog in 15 minutes.
+
+`Claude Code` `Python` `AI Strategy`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Services I Offer
 
-> Available for freelance, contract, retainer, and full agency engagements. Both **Fiverr** and **Upwork** verified, plus direct via [skynetjoe.com](https://www.skynetjoe.com).
+> Available for freelance, contract, retainer, and full agency engagements. **Fiverr** and **Upwork** verified, plus direct via [skynetjoe.com](https://www.skynetjoe.com).
 
 | Service | What You Get | Starts At |
 |---|---|---|
@@ -265,22 +197,136 @@ Property listings, search & filtering, virtual tour integration, Framer Motion
 | **SaaS MVPs & Dashboards** | Full-stack SaaS MVPs with Supabase, auth, Stripe, multi-tenant architecture | $3,500 |
 | **Industry-Specific Web Design** | Healthcare, Legal, Real Estate, E-Commerce, Logistics, HVAC, Maritime | $1,200 |
 
-**🎯 Why agencies and founders hire me:** every project ships **fast**, every site is **deployed live**, every workflow is **production-tested**. No demos that never launch. No half-built MVPs. 50+ projects shipped, all visible above.
+Every project ships **fast**, every site is **deployed live**, every workflow is **production-tested**. 50+ projects shipped, all visible above.
 
 [![Hire on Fiverr](https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/agencies/skynetjoellc)
+&nbsp;
 [![Hire on Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01)
+&nbsp;
 [![Direct Hire](https://img.shields.io/badge/Direct_Hire_via_Calendly-FF6B35?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/skynetlabs/schedule-a-free-consultation)
+
+---
+
+## Full Portfolio — 50+ Live Projects by Industry
+
+> Every link below is a **deployed, working demo**. Not tutorials — production-grade projects.
+
+<details>
+<summary><b>Healthcare & Medical (6 projects)</b></summary>
+<br>
+
+| Project | Stack | Live Demo |
+|---------|-------|-----------|
+| [Hepatologia Course](https://github.com/waseemnasir2k26/hepatologia-course) — Medical course platform, bilingual Spanish | HTML/CSS/JS, WordPress-ready | [Live →](https://hepatologia-course.vercel.app) |
+| [Axis RX Funnel](https://github.com/waseemnasir2k26/axis-rx-funnel) — GLP-1 medical funnel, 3 landing variants | React, TypeScript, Tailwind | [Live →](https://axis-rx-funnel.vercel.app) |
+| [VitalPath Telehealth](https://github.com/waseemnasir2k26/glp2-telehealth) — GLP-2 telehealth platform | Next.js 14, TypeScript | [Live →](https://glp2-telehealth.vercel.app) |
+| [Healthcare Landing](https://github.com/waseemnasir2k26/healthcare-landing) — Bilingual digital health platform | React, Tailwind CSS | [Live →](https://healthcare-landing-murex.vercel.app) |
+| [CaringHands Homecare](https://github.com/waseemnasir2k26/caringhands-homecare) — Elder care services | React, Tailwind CSS | [Live →](https://caringhands-homecare.vercel.app) |
+| [Optometry Clinic](https://github.com/waseemnasir2k26/optometry-clinic) — Professional eye care landing page | React, Vite, Tailwind | — |
+
+</details>
+
+<details>
+<summary><b>Logistics & Maritime (3 projects)</b></summary>
+<br>
+
+| Project | Stack | Live Demo |
+|---------|-------|-----------|
+| [FreightCommand](https://github.com/waseemnasir2k26/load-broker-portal) — Load broker SaaS with bidding & tracking | React 19, Vite, Tailwind | [Live →](https://load-broker-portal.vercel.app) |
+| [Limenis Global Advisory](https://github.com/waseemnasir2k26/limenis-website) — Maritime & port consulting | Next.js, TypeScript | [Live →](https://limenis-website.vercel.app) |
+| [What's The Move](https://github.com/waseemnasir2k26/whats-the-move) — Labor-only moving, Charleston SC | React, Vite, Tailwind | [Live →](https://whats-the-move-nine.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>Consulting & Agency (4 projects)</b></summary>
+<br>
+
+| Project | Stack | Live Demo |
+|---------|-------|-----------|
+| [CPG Synergy](https://github.com/waseemnasir2k26/cpg-synergy-redesign) — CPG agency, 5 design variants | React, Framer Motion | [Live →](https://cpg-synergy-redesign.vercel.app) |
+| [Ascend Consulting](https://github.com/waseemnasir2k26/consulting-firm) — Consulting firm, 3 variants | React, Framer Motion | [Live →](https://consulting-firm-phi.vercel.app) |
+| [Ferrante Media](https://github.com/waseemnasir2k26/ferrante-media-premium) — AI automation agency | React, TypeScript | [Live →](https://ferrante-media-premium.vercel.app) |
+| [SOOR Technologies](https://github.com/waseemnasir2k26/soor-technologies) — Odoo ERP partner, Kuwait | React, Vite | [Live →](https://soor-technologies.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>E-Commerce & Food (3 projects)</b></summary>
+<br>
+
+| Project | Stack | Live Demo |
+|---------|-------|-----------|
+| [Recipe Website](https://github.com/waseemnasir2k26/recipe-website) — Digital recipe e-commerce + subscriptions | React, Vite, Tailwind | [Live →](https://recipe-website-sand-theta.vercel.app) |
+| [LUXE Store](https://github.com/waseemnasir2k26/ecommerce-website) — Premium online store | React, Vite, Tailwind | [Live →](https://ecommerce-website-gray-gamma.vercel.app) |
+| [Usama Bakery](https://github.com/waseemnasir2k26/usama-bakery-website) — Local bakery with amber glow design | React, Tailwind | [Live →](https://usama-bakery-website.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>Real Estate & Home Services (3 projects)</b></summary>
+<br>
+
+| Project | Stack | Live Demo |
+|---------|-------|-----------|
+| [MN Realty Co](https://github.com/waseemnasir2k26/mn-realty-co) — Real estate listings platform | Next.js, TypeScript, Framer Motion | [Live →](https://mn-realty-co.vercel.app) |
+| [Pretty Potty NYC](https://github.com/waseemnasir2k26/pretty-potty) — Luxury mobile restrooms, Long Island | React, Vite, Framer Motion | [Live →](https://pretty-potty.vercel.app) |
+| [Main Clim](https://github.com/waseemnasir2k26/mainclim-website) — HVAC services, Benin | Next.js 14, TypeScript | [Live →](https://mainclim-website.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>Legal & Education (3 projects)</b></summary>
+<br>
+
+| Project | Stack | Live Demo |
+|---------|-------|-----------|
+| [JudgeAI](https://github.com/waseemnasir2k26/judgeai) — AI legal analysis platform | Next.js, TypeScript, OpenAI | [Live →](https://judgeai-eta.vercel.app) |
+| [Doctorate Portfolio](https://github.com/waseemnasir2k26/doctorate-portfolio) — Academic/PhD portfolio template | React, Tailwind | [Live →](https://doctorate-portfolio.vercel.app) |
+| [Dominique McClaney](https://github.com/waseemnasir2k26/dominique-mcclaney-portfolio) — Full-stack engineer portfolio | React, Vite | [Live →](https://dominique-mcclaney-portfolio.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>AI, Automation & SaaS Tools (10 projects)</b></summary>
+<br>
+
+| Project | Stack | Live Demo |
+|---------|-------|-----------|
+| [AEO Content Engine](https://github.com/waseemnasir2k26/aeo-content-engine) — GPT-4.1 + Gemini content pipeline | n8n, GPT-4.1, Gemini | [GitHub →](https://github.com/waseemnasir2k26/aeo-content-engine) |
+| [AI Video Editor](https://github.com/waseemnasir2k26/ai-video-editor) — Multi-version video pipeline | Python, FFmpeg, pycaps | [GitHub →](https://github.com/waseemnasir2k26/ai-video-editor) |
+| [Fiverr Gig Optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer) — AI gig strategy generator | Claude Code, Python | [GitHub →](https://github.com/waseemnasir2k26/fiverr-gig-optimizer) |
+| [Skynet Labs Toolkit](https://github.com/waseemnasir2k26/skynetlabs-toolkit) — 47 free tools for agencies | React, Supabase | [Live →](https://skynetlabs-toolkit.vercel.app) |
+| [Contact Extractor](https://github.com/waseemnasir2k26/contact-extractor) — Extract emails/phones from any site | Python, Vercel | [Live →](https://contact-extractor-black.vercel.app) |
+| [Social Media Dashboard](https://github.com/waseemnasir2k26/social-media-dashboard) — Multi-platform posting with OAuth | React, Python | [Live →](https://social-media-dashboard-five-zeta.vercel.app) |
+| [FreelanceFlow AI](https://github.com/waseemnasir2k26/freelanceflow-ai-extension) — AI Chrome extension for freelancers | JavaScript, Ollama, OpenAI | — |
+| [VEO3 Scene Generator](https://github.com/waseemnasir2k26/veo3-scene-generator) — AI video scene tool | TypeScript, React | [Live →](https://veo3-scene-generator.vercel.app) |
+| [SkynetLabs Carousels](https://github.com/waseemnasir2k26/skynetlabs-carousels-batch5) — 30 multi-platform carousels | Python, Pillow, GHL CSV | [GitHub →](https://github.com/waseemnasir2k26/skynetlabs-carousels-batch5) |
+| [3D Scroll Hero](https://github.com/waseemnasir2k26/scroll-hero) — Adaline.ai-style scroll animation | Next.js, GSAP, Three.js | [Live →](https://scroll-hero-kohl.vercel.app) |
+
+</details>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Frontend** &nbsp;&nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**AI & Automation** &nbsp;&nbsp; ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+**Platforms** &nbsp;&nbsp; ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![GoHighLevel](https://img.shields.io/badge/GHL-FF6B35?style=flat-square&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+
+</div>
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waseemnasir2k26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemnasir2k26&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waseemnasir2k26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemnasir2k26&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
@@ -293,7 +339,10 @@ Property listings, search & filtering, virtual tour integration, Framer Motion
 
 <div align="center">
 
-**Need a premium website, SaaS platform, or AI automation system?**
+**Need a website, SaaS platform, AI automation, or content system?**<br>
+We've shipped 50+ projects across healthcare, legal, logistics, e-commerce, and more.
+
+<br>
 
 [![Book a Free Strategy Call](https://img.shields.io/badge/%F0%9F%93%85_Book_a_Free_Strategy_Call-FF6B35?style=for-the-badge&logoColor=white)](https://calendly.com/skynetlabs/schedule-a-free-consultation)
 
@@ -310,11 +359,7 @@ Property listings, search & filtering, virtual tour integration, Framer Motion
 ---
 
 <p align="center">
-  <b>Industries we serve:</b> Healthcare · Legal · Real Estate · E-Commerce · Logistics · Consulting · HVAC · SaaS<br>
-  <b>Technologies:</b> React · Next.js · TypeScript · Python · n8n · WordPress · Tailwind CSS · Supabase · Vercel<br>
-  <b>Services:</b> Web Development · AI Automation · SaaS Development · Lead Funnels · UI/UX Design
+  <sub>Every repo is a real project — deployed, functional, and client-approved. Star what you like.</sub>
 </p>
 
-<p align="center">
-  <sub>⭐ Star a repo if you like what you see — it helps us reach more businesses that need these solutions.</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=100&section=footer" width="100%" />
