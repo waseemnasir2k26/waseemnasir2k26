@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Waseem%20Nasir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20Agency%20%7C%2050%2B%20Live%20Projects%20%7C%208%2B%20Industries&descSize=18&descAlignY=55&descColor=58a6ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Waseem%20Nasir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20Agency%20%7C%2057%2B%20Repos%20%7C%2010%2B%20Industries&descSize=18&descAlignY=55&descColor=58a6ff" width="100%" />
 
 ### Founder @ [Skynet Labs](https://www.skynetjoe.com) — AI-powered websites, automation workflows & revenue systems
 
@@ -24,10 +24,10 @@
 
 <table>
 <tr>
-<td align="center"><b>54+</b><br><sub>Repositories</sub></td>
-<td align="center"><b>50+</b><br><sub>Live Projects</sub></td>
-<td align="center"><b>8+</b><br><sub>Industries</sub></td>
-<td align="center"><b>5</b><br><sub>Countries</sub></td>
+<td align="center"><b>57+</b><br><sub>Repositories</sub></td>
+<td align="center"><b>55+</b><br><sub>Live Projects</sub></td>
+<td align="center"><b>10+</b><br><sub>Industries</sub></td>
+<td align="center"><b>6</b><br><sub>Countries</sub></td>
 </tr>
 </table>
 
@@ -40,6 +40,87 @@
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Us-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/agencies/skynetjoellc)
 
 </div>
+
+---
+
+## Latest Builds — April 2026
+
+> Fresh off the press. Six new projects shipped this sprint.
+
+<table>
+<tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/NEW-00C853?style=flat-square" /> [KSA Shoes Store](https://github.com/waseemnasir2k26/ksa-shoes-store)
+**Al-Zaytoun — Luxury Footwear E-Commerce, KSA**
+
+Next.js 16 storefront with dark-luxury aesthetic, product catalog, cart, wishlist. Live on Vercel, domain + payment integration in progress.
+
+`Next.js 16` `TypeScript` `Tailwind` `Vercel`
+
+[**Live Demo →**](https://ksa-shoes-store-five.vercel.app)
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/NEW-00C853?style=flat-square" /> [Next Level Retreat](https://github.com/waseemnasir2k26/next-level-retreat-designs)
+**Corey Boutwell — Men's Transformation Retreat**
+
+6 landing page designs delivered for client pick. Brutalist, cinematic, retreat-booking funnels with GHL integration next.
+
+`React` `Vite` `Tailwind` `Framer Motion`
+
+[**Repo →**](https://github.com/waseemnasir2k26/next-level-retreat-designs)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/NEW-00C853?style=flat-square" /> [SkynetJoe Social Apr19](https://github.com/waseemnasir2k26/skynetjoe-social-apr19)
+**30 Posts × 10 Days — Personal Brand Drip**
+
+Multi-platform content batch (FB / LinkedIn / IG / Pinterest) published to GoHighLevel. Motivation + casual Q + soft builder cadence, no hard sell. Reusable playbook.
+
+`GoHighLevel` `CSV Scheduling` `Python` `Personal Brand`
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/NEW-00C853?style=flat-square" /> [SkynetLabs Carousels Batch 5](https://github.com/waseemnasir2k26/skynetlabs-carousels-batch5)
+**30 Document Carousels — 4 Platforms**
+
+LinkedIn + IG + FB + Pinterest carousels across 6 design families. GHL-ready 39-column CSV with interactive first comments. Bulk generation in Python + Pillow.
+
+`Python` `Pillow` `GHL CSV` `Multi-Platform`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/NEW-00C853?style=flat-square" /> [AEO Content Engine v2.0 — Nomad CEO](https://github.com/waseemnasir2k26/aeo-content-engine)
+**Hardened n8n Content Pipeline**
+
+Daily (11 nodes) + Weekly (51 nodes) workflows. Gemini header auth, 3-retry error handling across 19 nodes, GPT-4.1 → 4o-mini swap (~60% cost cut). Production-ready.
+
+`n8n` `GPT-4o-mini` `Gemini 2.5` `AEO` `Cost-Optimized`
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/NEW-00C853?style=flat-square" /> [Hepatologia Course](https://github.com/waseemnasir2k26/hepatologia-course)
+**Dr. Julio — Medical LMS Dual-Theme**
+
+Pro site + Tutor LMS portal. Two WordPress themes, 23 files, 3,127 lines. Vimeo + Mercado Pago integration, bilingual Spanish.
+
+`WordPress` `Tutor LMS` `Vimeo` `Mercado Pago`
+
+[**Live Demo →**](https://hepatologia-course.vercel.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -272,6 +353,8 @@ Every project ships **fast**, every site is **deployed live**, every workflow is
 | [MN Realty Co](https://github.com/waseemnasir2k26/mn-realty-co) — Real estate listings platform | Next.js, TypeScript, Framer Motion | [Live →](https://mn-realty-co.vercel.app) |
 | [Pretty Potty NYC](https://github.com/waseemnasir2k26/pretty-potty) — Luxury mobile restrooms, Long Island | React, Vite, Framer Motion | [Live →](https://pretty-potty.vercel.app) |
 | [Main Clim](https://github.com/waseemnasir2k26/mainclim-website) — HVAC services, Benin | Next.js 14, TypeScript | [Live →](https://mainclim-website.vercel.app) |
+| [Next Level Retreat Designs](https://github.com/waseemnasir2k26/next-level-retreat-designs) — Corey Boutwell men's retreat, 6 design variants | React, Vite, Framer Motion | — |
+| [KSA Shoes Store](https://github.com/waseemnasir2k26/ksa-shoes-store) — Al-Zaytoun luxury footwear e-commerce | Next.js 16, TypeScript, Tailwind | [Live →](https://ksa-shoes-store-five.vercel.app) |
 
 </details>
 
@@ -303,6 +386,8 @@ Every project ships **fast**, every site is **deployed live**, every workflow is
 | [VEO3 Scene Generator](https://github.com/waseemnasir2k26/veo3-scene-generator) — AI video scene tool | TypeScript, React | [Live →](https://veo3-scene-generator.vercel.app) |
 | [SkynetLabs Carousels](https://github.com/waseemnasir2k26/skynetlabs-carousels-batch5) — 30 multi-platform carousels | Python, Pillow, GHL CSV | [GitHub →](https://github.com/waseemnasir2k26/skynetlabs-carousels-batch5) |
 | [3D Scroll Hero](https://github.com/waseemnasir2k26/scroll-hero) — Adaline.ai-style scroll animation | Next.js, GSAP, Three.js | [Live →](https://scroll-hero-kohl.vercel.app) |
+| [SkynetJoe Social Apr19](https://github.com/waseemnasir2k26/skynetjoe-social-apr19) — 30 posts × 10 days GHL drip, multi-platform | GoHighLevel, CSV, Python | [GitHub →](https://github.com/waseemnasir2k26/skynetjoe-social-apr19) |
+| [SMM](https://github.com/waseemnasir2k26/SMM) — Google AI Studio social media tool | TypeScript | [GitHub →](https://github.com/waseemnasir2k26/SMM) |
 
 </details>
 
