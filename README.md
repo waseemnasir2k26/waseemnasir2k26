@@ -341,6 +341,8 @@ Every project ships **fast**, every site is **deployed live**, every workflow is
 | [MN Realty Co](https://github.com/waseemnasir2k26/mn-realty-co) — Real estate listings platform | Next.js, TypeScript, Framer Motion | [Live →](https://mn-realty-co.vercel.app) |
 | [Pretty Potty NYC](https://github.com/waseemnasir2k26/pretty-potty) — Luxury mobile restrooms, Long Island | React, Vite, Framer Motion | [Live →](https://pretty-potty.vercel.app) |
 | [Main Clim](https://github.com/waseemnasir2k26/mainclim-website) — HVAC services, Benin | Next.js 14, TypeScript | [Live →](https://mainclim-website.vercel.app) |
+| [Next Level Retreat Designs](https://github.com/waseemnasir2k26/next-level-retreat-designs) — Corey Boutwell men's retreat, 6 design variants | React, Vite, Framer Motion | — |
+| [KSA Shoes Store](https://github.com/waseemnasir2k26/ksa-shoes-store) — Al-Zaytoun luxury footwear e-commerce | Next.js 16, TypeScript, Tailwind | [Live →](https://ksa-shoes-store-five.vercel.app) |
 
 </details>
 
@@ -394,6 +396,8 @@ Every project ships **fast**, every site is **deployed live**, every workflow is
 | [VEO3 Scene Generator](https://github.com/waseemnasir2k26/veo3-scene-generator) — AI video scene tool | TypeScript, React | [Live →](https://veo3-scene-generator.vercel.app) |
 | [SkynetLabs Carousels](https://github.com/waseemnasir2k26/skynetlabs-carousels-batch5) — 30 multi-platform carousels | Python, Pillow, GHL CSV | [GitHub →](https://github.com/waseemnasir2k26/skynetlabs-carousels-batch5) |
 | [3D Scroll Hero](https://github.com/waseemnasir2k26/scroll-hero) — Adaline.ai-style scroll animation | Next.js, GSAP, Three.js | [Live →](https://scroll-hero-kohl.vercel.app) |
+| [SkynetJoe Social Apr19](https://github.com/waseemnasir2k26/skynetjoe-social-apr19) — 30 posts × 10 days GHL drip, multi-platform | GoHighLevel, CSV, Python | [GitHub →](https://github.com/waseemnasir2k26/skynetjoe-social-apr19) |
+| [SMM](https://github.com/waseemnasir2k26/SMM) — Google AI Studio social media tool | TypeScript | [GitHub →](https://github.com/waseemnasir2k26/SMM) |
 
 </details>
 
