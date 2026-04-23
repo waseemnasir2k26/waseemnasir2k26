@@ -454,6 +454,53 @@ Every repo here is a real project for a real person. No toy demos, no tutorial c
 
 ---
 
+## Life Beyond the Keyboard
+
+> Code pays the bills. These are the rooms, roads and rituals that keep the tank full.
+
+<table>
+<tr>
+<td width="25%" align="center">
+  <img src="./waseem-beach.jpg" width="100%" style="border-radius:12px;" alt="Beach · freedom" />
+  <br><sub><b>Freedom</b><br><i>Why I grind.</i></sub>
+</td>
+<td width="25%" align="center">
+  <img src="./waseem-mountain.jpg" width="100%" style="border-radius:12px;" alt="Mountain road · independence" />
+  <br><sub><b>The Road</b><br><i>Motorcycle + mountains + no signal.</i></sub>
+</td>
+<td width="25%" align="center">
+  <img src="./waseem-cliff.jpg" width="100%" style="border-radius:12px;" alt="Cliff edge · turquoise water" />
+  <br><sub><b>The Edge</b><br><i>Best ideas come at cliffsides.</i></sub>
+</td>
+<td width="25%" align="center">
+  <img src="./waseem-team.jpg" width="100%" style="border-radius:12px;" alt="Team at coworking table" />
+  <br><sub><b>The Team</b><br><i>Laptops open, coffee cold, work hot.</i></sub>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+  <img src="./waseem-dinner.jpg" width="100%" style="border-radius:12px;" alt="Group dinner · community" />
+  <br><sub><b>The Table</b><br><i>Network compound interest — 10 yrs in.</i></sub>
+</td>
+<td width="25%" align="center">
+  <img src="./waseem-building.jpg" width="100%" style="border-radius:12px;" alt="Close-up building mode" />
+  <br><sub><b>Building Mode</b><br><i>2AM · watch on · caffeine high.</i></sub>
+</td>
+<td width="25%" align="center">
+  <img src="./waseem-conference.png" width="100%" style="border-radius:12px;" alt="Conference · authority" />
+  <br><sub><b>Rooms I Sneak Into</b><br><i>Learning > credentials, always.</i></sub>
+</td>
+<td width="25%" align="center">
+  <img src="./waseem-hero.jpg" width="100%" style="border-radius:12px;" alt="Cafe · thinking" />
+  <br><sub><b>The Thinking Seat</b><br><i>Cafe · glasses on · ship mode.</i></sub>
+</td>
+</tr>
+</table>
+
+> **Currently:** Lahore → Bali (arriving May 6, 2026). Building in public, shipping in private, and occasionally answering DMs.
+
+---
+
 ## Let's Work Together
 
 <div align="center">
