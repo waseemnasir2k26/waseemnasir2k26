@@ -206,9 +206,9 @@ Bilingual (Spanish) course platform for cirrhosis patients. 3 modules + 3 bonuse
 ### [AEO Content Engine v7.0](https://github.com/waseemnasir2k26/aeo-content-engine)
 **Automated AI content pipeline for agencies**
 
-Two-model pipeline (GPT-4.1 + Gemini 2.5 Flash). Weekly AEO-optimized articles, newsletters, video scripts. Free keyword research, 52-week dedup, branded email delivery. **~$0.30 per full run.**
+Two-model pipeline (GPT-4o-mini + Gemini 2.5 Flash). Daily (11 nodes) + Weekly (51 nodes) workflows. Gemini header auth, 3-retry error handling across 19 nodes. GPT-4.1 → 4o-mini swap cut cost ~60%. Free keyword research, 52-week dedup, branded email delivery. **~$0.30 per full run.**
 
-`n8n` `GPT-4.1` `Gemini 2.5 Flash` `AEO` `Content Automation`
+`n8n` `GPT-4o-mini` `Gemini 2.5 Flash` `AEO` `Content Automation`
 
 </td>
 <td width="50%">
