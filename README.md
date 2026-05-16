@@ -88,14 +88,12 @@ ElevenLabs ConvAI + Twilio (US DID) + Gemini 2.5 Flash + n8n orchestration. Nina
 </td>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/MAY_15-9D4EDD?style=flat-square" /> [Primordia — Men's Brand Landing Pair](https://primordia-landing.vercel.app)
-**Fiverr — 3 distinct demo variants**
+### <img src="https://img.shields.io/badge/MAY_15-9D4EDD?style=flat-square" /> Dads On Tour — Positive News Engine
+**Fiverr · $250 custom · IG content engine pitch**
 
-V1 Monolith (Saint Laurent gallery) · V2 Underground (Liquid Death tactical) · V3 Temple (Stoic marble). Tally + video + 300dpi print PDF on green-light.
+11-page pitch PDF shipped — n8n + OpenAI + Meta Graph + Telegram approval. 8 feeds, hybrid scrape + AI image rec, 2 posts/day cadence, $197/mo retainer upsell. Light cream + emerald + gold + coral palette.
 
-`Next.js` `Three variants` `QR flyer` `Print-ready`
-
-[**Live Picker →**](https://primordia-landing.vercel.app)
+`n8n` `OpenAI` `Meta Graph API` `Telegram approval`
 
 </td>
 </tr>
@@ -410,13 +408,12 @@ Scrape Facebook page → Claude rewrite → gpt-image-1 redesign with founder po
 </details>
 
 <details>
-<summary><b>Fashion, Lifestyle & Men's Brands (2 projects)</b></summary>
+<summary><b>Fashion, Lifestyle & DTC (1 active retainer)</b></summary>
 <br>
 
-| Project | Stack | Live Demo |
-|---------|-------|-----------|
-| [Primordia — 3 variants picker](https://primordia-landing.vercel.app) — Men's brand landing, Saint Laurent / Liquid Death / Stoic Temple | Next.js · 3 variants · QR flyer | [Live →](https://primordia-landing.vercel.app) |
-| MD Fashionwear — Scandi DTC retainer, $1,100/mo | Shopify · Meta Ads · Klaviyo | Kickoff May 18 |
+| Project | Stack | Status |
+|---------|-------|--------|
+| MD Fashionwear — Scandi DTC retainer, $1,100/mo, SE/NO/DK/FI launch | Shopify · Meta Ads · Klaviyo · GA4 | Kickoff May 18 |
 
 </details>
 
