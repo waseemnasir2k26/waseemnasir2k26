@@ -36,11 +36,13 @@
 
 Founder of **[SkynetLabs](https://www.skynetjoe.com)** — an AI automation agency. I also build under my own name at **[waseemnasir.com](https://www.waseemnasir.com)** for clients who want a builder, not a brand.
 
-**Latest:** Live voice AI debt-collection agent for a French real-estate group (ElevenLabs ConvAI + Twilio + Gemini + n8n orchestration). Client-validated in three test calls. Same week: car dealer demo, healthcare workflow build, three premium men's-brand landing variants, recovery-center hybrid site.
+**Latest (late May):** Rebuilt SkynetJoe.com as a full Next.js 16 app, launched a 10-tool free agency toolkit, open-sourced **Reborn Forge** (niche-agnostic AI-video master-prompt generator, MIT), shipped an internal ops dashboard, and stood up a self-publishing content pipeline that pushes branded promos across 13 socials. Plus a new graphic-novel client engagement and a logistics billing-bot onboarding — alongside the live French voice AI debt-collection agent (ElevenLabs ConvAI + Twilio + Gemini + n8n).
 
 Every project below is **live, deployed, and client-approved.** I design, code, automate, deploy — usually in the same week. You talk to the person writing the code.
 
 **Q2 2026:** 1 retainer engagement still open. Voice AI pilots scheduling.
+
+<sub>📅 <b>Profile last updated: 2026-05-29</b> · refreshed every Friday</sub>
 
 <a href="https://calendly.com/skynetlabs/schedule-a-free-consultation"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_Strategy_Call-FF6B35?style=for-the-badge&logoColor=white" /></a>
 &nbsp;
@@ -56,13 +58,13 @@ Every project below is **live, deployed, and client-approved.** I design, code, 
 
 <table>
 <tr>
-<td align="center"><b>75+</b><br><sub>Live Sites Shipped</sub></td>
+<td align="center"><b>80+</b><br><sub>Live Sites Shipped</sub></td>
 <td align="center"><b>50+</b><br><sub>n8n Workflows</sub></td>
 <td align="center"><b>1</b><br><sub>Voice AI Agent Live</sub></td>
-<td align="center"><b>47</b><br><sub>Free Tools</sub></td>
-<td align="center"><b>14</b><br><sub>Industries</sub></td>
-<td align="center"><b>10</b><br><sub>Countries Served</sub></td>
-<td align="center"><b>67</b><br><sub>Public Repos</sub></td>
+<td align="center"><b>10</b><br><sub>Free Tools (Toolkit)</sub></td>
+<td align="center"><b>16</b><br><sub>Industries</sub></td>
+<td align="center"><b>10+</b><br><sub>Countries Served</sub></td>
+<td align="center"><b>90+</b><br><sub>Public Repos</sub></td>
 </tr>
 </table>
 
@@ -78,96 +80,98 @@ Every project below is **live, deployed, and client-approved.** I design, code, 
 <tr>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/MAY_15-9D4EDD?style=flat-square" /> Voice AI Debt-Collection Agent
-**KODIASIMMO · France · Real-estate group**
+### <img src="https://img.shields.io/badge/MAY_29-9D4EDD?style=flat-square" /> [SkynetJoe.com — Next.js 16 Rebuild](https://www.skynetjoe.com)
+**Agency site rebuilt from WordPress → React**
 
-ElevenLabs ConvAI + Twilio (US DID) + Gemini 2.5 Flash + n8n orchestration. Nina FR voice @ 0.85 speed, 50s cap, 4 dynamic variables (company, debtor, amount, due date). Client-validated across three live test calls. Phase 2 orchestration in build.
+Full Next.js 16 + React + TypeScript rebuild of the agency site (from the v5.5 WP theme). Reordered nav, 23-card portfolio grid, community section, deployed on Vercel.
 
-`ElevenLabs ConvAI` `Twilio` `Gemini 2.5 Flash` `n8n` `French market`
+`Next.js 16` `React` `TypeScript` `Tailwind` `Vercel`
 
-</td>
-<td width="50%">
-
-### <img src="https://img.shields.io/badge/MAY_15-9D4EDD?style=flat-square" /> Dads On Tour — Positive News Engine
-**Fiverr · $250 custom · IG content engine pitch**
-
-11-page pitch PDF shipped — n8n + OpenAI + Meta Graph + Telegram approval. 8 feeds, hybrid scrape + AI image rec, 2 posts/day cadence, $197/mo retainer upsell. Light cream + emerald + gold + coral palette.
-
-`n8n` `OpenAI` `Meta Graph API` `Telegram approval`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### <img src="https://img.shields.io/badge/MAY_15-9D4EDD?style=flat-square" /> [Kitts Recovery Services](https://kittsrecoveryservices.com/latest-landing-page)
-**US recovery center — hybrid embedded site**
-
-Full hybrid HTML embedded on Google Sites via DNS-routed domain. Anchor nav, hot-linked portrait, SkynetLabs footer credit. Baseline snapshot saved for safe revert.
-
-`Google Sites + HTML hybrid` `DNS routing` `Anchor nav`
-
-[**Live →**](https://kittsrecoveryservices.com/latest-landing-page)
+[**Live →**](https://www.skynetjoe.com)
 
 </td>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/MAY_13-9D4EDD?style=flat-square" /> [Healthcare Workflow Demo](https://healthcare-workflow-demo.vercel.app)
-**Physician-group ops consultant — spec build**
+### <img src="https://img.shields.io/badge/MAY_27-9D4EDD?style=flat-square" /> [Skynet Labs Toolkit — 10 Free Tools](https://skynetlabs-toolkit.vercel.app)
+**Free utilities for freelancers & agencies**
 
-13 sections, right sidebar scroll-spy, HIPAA-aware architecture, sample operator dashboard, JSON-LD schema, 14 backlinks. Free-audit CTA.
+AI ROI Calculator · Rate Calculator · Proposal Builder · Content Calendar · Scope Tracker · Testimonial Collector · Project Tracker · AI Readiness Quiz · Client Onboarding · NDA System. Email-gated, GHL-wired.
 
-`Next.js` `TypeScript` `HIPAA-aware` `Scroll-spy nav`
+`React` `Vite` `Supabase` `Vercel`
 
-[**Live →**](https://healthcare-workflow-demo.vercel.app)
+[**Live →**](https://skynetlabs-toolkit.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/MAY_12-9D4EDD?style=flat-square" /> [Car Dealer Demo](https://car-dealer-demo-2026-05-12.vercel.app)
-**Editorial dark + gold dealer site**
+### <img src="https://img.shields.io/badge/MAY_27-2EA043?style=flat-square" /> [Reborn Forge — OSS · MIT](https://github.com/waseemnasir2k26/reborn-forge)
+**Niche-agnostic AI-video master-prompt generator**
 
-Next.js 15 + React 19 + Tailwind v4. WhatsApp deep-link per car with VIN pre-fill. Mock `/admin`. Upwork $850 / Fiverr $497.
+Paste a niche + a YouTube URL → get a 34-section master prompt for any genre. Phase-0 classifier, 5-agent pipeline, script-writing system, 4 quality gates. Any niche, any language. Open source.
 
-`Next.js 15` `React 19` `Tailwind v4` `WhatsApp deep-link`
+`Python` `Claude Code` `AI Video` `MIT`
 
-[**Live →**](https://car-dealer-demo-2026-05-12.vercel.app)
+[**Repo →**](https://github.com/waseemnasir2k26/reborn-forge)
 
 </td>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/MAY_11-9D4EDD?style=flat-square" /> Cite Roselyne — Email Automation
-**Takycorp · France · Phase 1 ready**
+### <img src="https://img.shields.io/badge/MAY_29-9D4EDD?style=flat-square" /> Self-Publishing Promo Pipeline
+**Raw screencast → branded promo → 13 socials**
 
-n8n workflow, 17/17 validation checks pass, 30-email test set, real mailbox integration. Phase 2 retainer pitch $500/mo wired with seven deliverables.
+One command turns a raw screen-recording into a polished landscape promo — auto cut, hook card, rotating strap, PiP inserts, AI voiceover (ElevenLabs), ducked BGM — then auto-publishes across all 13 connected social accounts.
 
-`n8n` `IMAP/SMTP` `Email parsing` `French market`
+`Claude Code` `FFmpeg` `ElevenLabs` `GoHighLevel`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/MAY_11-9D4EDD?style=flat-square" /> [Automation PDF Pack — 20 Workflows](https://github.com/waseemnasir2k26/skynet-automation-pack)
-**Lead magnet — 20 PDFs + n8n + carousels**
+### <img src="https://img.shields.io/badge/MAY_27-9D4EDD?style=flat-square" /> [SOOR Technologies](https://soor-technologies.vercel.app)
+**Kuwait's leading Odoo ERP partner — React site**
 
-20 production-grade n8n workflows, 20 carousel HTML sets, 60-keyword ManyChat spec, GHL CSV M-F drip schedule. Public repo live.
+Modern React marketing site for an Odoo ERP implementation partner. Clean service architecture, conversion-focused layout, deployed on Vercel.
 
-`n8n` `ManyChat` `GHL` `Lead-magnet automation`
+`React` `Vite` `Tailwind` `Vercel`
 
-[**Repo →**](https://github.com/waseemnasir2k26/skynet-automation-pack)
+[**Live →**](https://soor-technologies.vercel.app)
 
 </td>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/MAY_15-FFD60A?style=flat-square" /> MD Fashionwear — Scandi DTC
-**Retainer locked — $1,100/mo · Shopify + Meta Ads**
+### <img src="https://img.shields.io/badge/MAY_27-9D4EDD?style=flat-square" /> Skynet Ops Dashboard
+**Internal · private Next.js command center**
 
-26-page Week 1 operating plan PDF shipped. Givens locked: Shopify access, Meta BM, ZQ dropship Month 1, Scandi 4 (SE/NO/DK/FI). 9-risk matrix, RACI, walk triggers. Kickoff Mon May 18.
+Password-gated ops dashboard — Tasks, Productivity, Revenue, Calendar tabs. Walks 71 repos for commit metrics, auto-refreshes twice daily via Task Scheduler + git push. Built to run the agency, not to sell.
 
-`Shopify` `Meta Ads` `Klaviyo` `Scandi DTC`
+`Next.js` `Vercel` `GitHub API` `Task Scheduler`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/MAY_26-1DBF73?style=flat-square" /> [Fiverr AEO Gig Catalog](https://fiverr.com/agencies/skynetjoellc)
+**AEO Citation Audit + AEO Content Engine — live**
+
+Productized AEO services published live on Fiverr — answer-engine citation audits and an automated AEO content engine. UK voiceover explainer + PDF brochure per gig.
+
+`AEO` `n8n` `Fiverr` `Productized service`
+
+[**Hire →**](https://fiverr.com/agencies/skynetjoellc)
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/MAY_22-FFD60A?style=flat-square" /> Bayou Savage — Graphic Novel
+**Active client engagement · Asheville NC**
+
+Long-form graphic-novel production (~55 chapters). Milestone-based delivery, locked scope, M2 schedule in planning.
+
+`Creative production` `Milestone delivery`
 
 </td>
 </tr>
@@ -182,12 +186,12 @@ n8n workflow, 17/17 validation checks pass, 30-email test set, real mailbox inte
 | Project | Client | Stack | Stage |
 |---|---|---|---|
 | **Voice AI Phase 2** | KODIASIMMO · FR | ElevenLabs · Twilio · n8n · Gemini | Phase 1 validated · orchestration build |
+| **Meta Ads Freight Sprint** | Freight Command Center | Meta Ads · GHL · Pixel + CAPI | LP + tracking wired · launches Jun 1 |
+| **Logistics Billing Bot** | Takycorp / Camoa · FR | n8n · billing parse · CRM sync | Onboarding · discovery in progress |
+| **Bayou Savage Graphic Novel** | Asheville NC | Creative production · ~55 ch | Active · M2 schedule locking |
+| **Payload Portal** | SkynetLabs site | Payload v3 · SQLite · Next.js | Day 1-3 shipped · Hostinger deploy next |
 | **[citelift.app](https://citelift.app)** | Internal SaaS | Next.js · Stripe · 5-API stack | Domain verified · MVP build queued |
-| **MD Fashionwear retainer** | Scandi DTC fashion | Shopify · Meta Ads · Klaviyo · GA4 | Kickoff May 18 · $1,100/mo locked |
-| **Cite Roselyne Phase 2** | Takycorp · FR | n8n · email parsing · CRM sync | Demo May 15 · $500/mo retainer pitch ready |
-| **Meta Ads 14-day Sprint** | Freight Command Center | Meta Ads · GHL · funnel tracking | Launch May 19 · $200 / 14d test→scale→harvest |
-| **5 Flagship Bespoke Demos** | SkynetLabs portfolio | Real estate · beauty · law · restaurant · venue | Realestate first · CEO pivot $500K ARR target |
-| **Bali Gulf Premium Guide** | KSA / UAE / Kuwait | Playwright PDF · Arabic webapp | ~25% built · 6 research files + 11 location cards |
+| **5 Flagship Bespoke Demos** | SkynetLabs portfolio | Real estate · beauty · law · restaurant · venue | Realestate first · premium showcase tier |
 | **AEO Content Engine v7** | Internal · agency use | n8n · GPT-4o-mini · Gemini | Running weekly · ~$0.30 / run |
 
 ---
@@ -351,7 +355,7 @@ Scrape Facebook page → Claude rewrite → gpt-image-1 redesign with founder po
 
 ---
 
-## Full Portfolio — 75+ Live Projects by Industry
+## Full Portfolio — 80+ Live Projects by Industry
 
 > Every link is a **deployed, working build.** Not tutorials. Real client projects.
 
@@ -523,6 +527,8 @@ Scrape Facebook page → Claude rewrite → gpt-image-1 redesign with founder po
 | [VEO3 Scene Generator](https://veo3-scene-generator.vercel.app) — AI video scene tool | TypeScript · React | [Live →](https://veo3-scene-generator.vercel.app) |
 | [3D Scroll Hero](https://scroll-hero-kohl.vercel.app) — Adaline.ai-style scroll animation | Next.js · GSAP · Three.js | [Live →](https://scroll-hero-kohl.vercel.app) |
 | [SkynetLabs Carousels Batch 5](https://github.com/waseemnasir2k26/skynetlabs-carousels-batch5) — Multi-platform carousels | Python · Pillow · GHL CSV | Live |
+| [Reborn Forge](https://github.com/waseemnasir2k26/reborn-forge) — Niche-agnostic AI-video master-prompt generator, MIT | Python · Claude Code · 5-agent pipeline | **OSS · Live** |
+| [Skynet Automation Pack](https://github.com/waseemnasir2k26/skynet-automation-pack) — 20 free production n8n workflows + setup PDFs | n8n · ManyChat · GHL | OSS · Live |
 
 </details>
 
@@ -639,7 +645,7 @@ Every repo here is a real project for a real person. No toy demos, no tutorial c
 <div align="center">
 
 **Building a voice AI agent, SaaS, automation pipeline, chatbot, or conversion site?**<br>
-75+ shipped across healthcare, legal, automotive, real estate, fashion, logistics, wellness, recovery, and more.
+80+ shipped across healthcare, legal, automotive, real estate, fashion, logistics, wellness, recovery, and more.
 
 <br>
 
