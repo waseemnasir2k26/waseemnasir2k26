@@ -28,7 +28,7 @@
 <tr>
 <td width="38%" align="center">
   <img src="./waseem-hero.jpg" width="260" style="border-radius:16px;" alt="Waseem Nasir — Bali, May 2026" />
-  <br><sub><i>Bali · May 2026 · Build week active</i></sub>
+  <br><sub><i>Bali · June 2026 · Build week active</i></sub>
 </td>
 <td width="62%" valign="top">
 
@@ -36,13 +36,13 @@
 
 Founder of **[SkynetLabs](https://www.skynetjoe.com)** — an AI automation agency. I also build under my own name at **[waseemnasir.com](https://www.waseemnasir.com)** for clients who want a builder, not a brand.
 
-**Latest (late May):** Rebuilt SkynetJoe.com as a full Next.js 16 app, launched a 10-tool free agency toolkit, open-sourced **Reborn Forge** (niche-agnostic AI-video master-prompt generator, MIT), shipped an internal ops dashboard, and stood up a self-publishing content pipeline that pushes branded promos across 13 socials. Plus a new graphic-novel client engagement and a logistics billing-bot onboarding — alongside the live French voice AI debt-collection agent (ElevenLabs ConvAI + Twilio + Gemini + n8n).
+**Latest (early June):** Shipped **aeo-content-engine v7** — an automated AEO pipeline (GPT-4.1 + Gemini 2.5 Flash) that pushes weekly AEO-optimized articles, newsletters, and video scripts through n8n. Built a config-driven generator that spins up **100 niche landing-page demos** from a single template, kept iterating the Next.js 16 SkynetJoe.com rebuild, and shipped an internal Claude-managed ops dashboard. The self-publishing content pipeline keeps running branded promos across socials — alongside the live French voice AI debt-collection agent (ElevenLabs ConvAI + Twilio + Gemini + n8n) still in production.
 
 Every project below is **live, deployed, and client-approved.** I design, code, automate, deploy — usually in the same week. You talk to the person writing the code.
 
 **Q2 2026:** 1 retainer engagement still open. Voice AI pilots scheduling.
 
-<sub>📅 <b>Profile last updated: 2026-05-29</b> · refreshed every Friday</sub>
+<sub>📅 <b>Profile last updated: 2026-06-05</b> · refreshed every Friday</sub>
 
 <a href="https://calendly.com/skynetlabs/schedule-a-free-consultation"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_Strategy_Call-FF6B35?style=for-the-badge&logoColor=white" /></a>
 &nbsp;
