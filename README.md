@@ -72,11 +72,35 @@ Every project below is **live, deployed, and client-approved.** I design, code, 
 
 ---
 
-## This Month — May 2026 Ships
+## Recent Ships — May–June 2026
 
-> Live work from the last fortnight. Click any tile — every link is a deployed, working build.
+> Live work from the last few weeks. Click any tile — every link is a deployed, working build.
 
 <table>
+<tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/JUN_05-2EA043?style=flat-square" /> [aeo-content-engine v7](https://github.com/waseemnasir2k26/aeo-content-engine)
+**Automated AEO content pipeline**
+
+GPT-4.1 + Gemini 2.5 Flash pipeline that ships weekly AEO-optimized articles, newsletters, and video scripts through n8n. Free keyword research, content dedup, branded emails.
+
+`n8n` `GPT-4.1` `Gemini` `AEO`
+
+[**Repo →**](https://github.com/waseemnasir2k26/aeo-content-engine)
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/JUN_05-9D4EDD?style=flat-square" /> 100-Niche Demo Generator
+**One template → 100 niche landing pages**
+
+Config-driven TypeScript generator that spins up 100 niche landing-page demos from a single template — niche design tokens, 3-variant lock, multi-wave Vercel deploys.
+
+`TypeScript` `Generator` `Vercel`
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
