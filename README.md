@@ -90,7 +90,7 @@ n8n + AI chains · GoHighLevel · AEO content engines · WhatsApp / IG / Web cha
 <tr>
 <td width="38%" align="center">
   <img src="./waseem-hero.jpg" width="260" style="border-radius:16px;" alt="Waseem Nasir — Founder, SkynetLabs · Bali" />
-  <br><sub><i>Waseem Nasir · Founder · Bali · June 2026</i></sub>
+  <br><sub><i>Waseem Nasir · Founder · Bali · July 2026</i></sub>
 </td>
 <td width="62%" valign="top">
 
@@ -98,11 +98,11 @@ n8n + AI chains · GoHighLevel · AEO content engines · WhatsApp / IG / Web cha
 
 SkynetLabs is an **AI automation studio**. We're senior builders, not an order-taking agency: you talk to the people writing the code. No 8-week kickoffs, no 12-person approval chains. You tell us what's slowing you down, we ship a working system, you tell us what's wrong, we fix it.
 
-**This build week (June 2026):** scaling the live voice-calling agent into Phase 2 orchestration, running our **Claude + Codex AI video pipeline** to turn raw clips into branded reels at volume, and keeping the **AEO content engine** (GPT-4.1 + Gemini via n8n) pushing weekly articles, newsletters, and scripts on autopilot.
+**This build week (July 2026):** shipped the founder site rebuild ([waseemnasir.com](https://www.waseemnasir.com), Next.js 14 + 6 branded design variants), scaling the live voice-calling agent into Phase 2 orchestration, running our **Claude + Codex AI video pipeline** to turn raw clips into branded reels at volume, and keeping the **AEO content engine** (GPT-4.1 + Gemini via n8n) pushing weekly articles, newsletters, and scripts on autopilot.
 
 Most projects below are **live, deployed builds** — real client systems and demos. A few are marked _Pitched_ or _Open for pilot_; those are proposals and pilots, not yet shipped. We label them honestly.
 
-<sub>📅 <b>Profile last updated: 2026-06-17</b> · refreshed weekly</sub>
+<sub>📅 <b>Profile last updated: 2026-07-19</b> · refreshed weekly</sub>
 
 <a href="https://calendly.com/skynetlabs/schedule-a-free-consultation"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_Strategy_Call-FF6B35?style=for-the-badge&logoColor=white" /></a>
 &nbsp;
@@ -131,12 +131,53 @@ Most projects below are **live, deployed builds** — real client systems and de
 
 ---
 
-## Recent Ships — May–June 2026
+## Recent Ships — June–July 2026
 
 > Live work from the last few weeks. Click any tile — every link is a deployed, working build.
 
 <table>
 <tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/JUL-58A6FF?style=flat-square" /> [waseemnasir.com — Founder Site Rebuild](https://www.waseemnasir.com)
+
+**Personal founder site, Next.js 14 + 6 design variants**
+
+Full rebuild of the founder site — Next.js 14 + React + TypeScript, six branded design variants to A/B the hero, deployed on Vercel. The front door for every inbound lead.
+
+`Next.js 14` `React` `TypeScript` `Vercel`
+
+[**Live →**](https://www.waseemnasir.com)
+
+</td>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/JUL-9D4EDD?style=flat-square" /> [SkynetLabs Maler — AI Painter Demo](https://github.com/waseemnasir2k26/skynetlabs-maler-demo)
+
+**German painter homepage concept, 3 variants**
+
+Speculative demo for a German painting contractor — 3 design variants with an **Offerte-Rechner** (instant quote calculator) and **Vision Studio** (AI room-preview). Conversion-first, DE-market tuned.
+
+`Next.js` `AI` `Demo`
+
+[**Repo →**](https://github.com/waseemnasir2k26/skynetlabs-maler-demo)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://img.shields.io/badge/JUL-F5A623?style=flat-square" /> [ToolVault — AI Tools Marketplace](https://github.com/waseemnasir2k26/toolvault)
+
+**Shared-access AI tools marketplace · building now**
+
+Next.js + Prisma + shadcn/ui marketplace for shared-access AI tool subscriptions. Currently migrating the data layer to Postgres for Vercel — in active build, not yet live.
+
+`Next.js` `Prisma` `shadcn/ui` `Postgres`
+
+[**Repo →**](https://github.com/waseemnasir2k26/toolvault)
+
+</td>
 <td width="50%">
 
 ### <img src="https://img.shields.io/badge/JUN-9D4EDD?style=flat-square" /> Voice Calling Agent — Phase 2
@@ -148,6 +189,8 @@ ElevenLabs ConvAI + Twilio DID + Gemini brain + n8n orchestration. Live French d
 `ElevenLabs` `Twilio` `Gemini` `n8n`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### <img src="https://img.shields.io/badge/JUN-2EA043?style=flat-square" /> AI Video Pipeline — Claude + Codex
@@ -159,8 +202,6 @@ Claude Code + Codex orchestrate FFmpeg + Whisper + pycaps: auto-cut, kinetic cap
 `Claude Code` `Codex` `FFmpeg` `Whisper`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### <img src="https://img.shields.io/badge/JUN-2EA043?style=flat-square" /> [aeo-content-engine v7](https://github.com/waseemnasir2k26/aeo-content-engine)
@@ -174,6 +215,8 @@ GPT-4.1 + Gemini 2.5 Flash pipeline that ships weekly AEO-optimized articles, ne
 [**Repo →**](https://github.com/waseemnasir2k26/aeo-content-engine)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### <img src="https://img.shields.io/badge/JUN-58A6FF?style=flat-square" /> [Claude Code vs Codex — Cheat Sheet](https://github.com/waseemnasir2k26/claude-code-vs-codex-cheatsheet)
@@ -185,19 +228,6 @@ Side-by-side of the two AI coding agents we drive every day — scored on actual
 `Claude Code` `Codex` `Reference`
 
 [**Repo →**](https://github.com/waseemnasir2k26/claude-code-vs-codex-cheatsheet)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### <img src="https://img.shields.io/badge/JUN-9D4EDD?style=flat-square" /> 100-Niche Demo Generator
-
-**One template → 100 niche landing pages**
-
-Config-driven TypeScript generator that spins up 100 niche landing-page demos from a single template — niche design tokens, 3-variant lock, multi-wave Vercel deploys.
-
-`TypeScript` `Generator` `Vercel`
 
 </td>
 <td width="50%">
@@ -486,15 +516,16 @@ MV3 extension that surfaces gig opportunities, trending keywords, and opportunit
 </details>
 
 <details>
-<summary><b>Consulting & Agency (4 projects)</b></summary>
+<summary><b>Consulting & Agency (5 projects)</b></summary>
 <br>
 
-| Project                                                                                   | Stack                 | Live Demo                                           |
-| ----------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------- |
-| [CPG Synergy](https://cpg-synergy-redesign.vercel.app) — CPG agency, 5 variants           | React · Framer Motion | [Live →](https://cpg-synergy-redesign.vercel.app)   |
-| [Ascend Consulting](https://consulting-firm-phi.vercel.app) — Consulting firm, 3 variants | React · Framer Motion | [Live →](https://consulting-firm-phi.vercel.app)    |
-| [Ferrante Media](https://ferrante-media-premium.vercel.app) — AI automation agency        | React · TypeScript    | [Live →](https://ferrante-media-premium.vercel.app) |
-| [SOOR Technologies](https://soor-technologies.vercel.app) — Odoo ERP partner, Kuwait      | React · Vite          | [Live →](https://soor-technologies.vercel.app)      |
+| Project                                                                                   | Stack                   | Live Demo                                           |
+| ----------------------------------------------------------------------------------------- | ----------------------- | --------------------------------------------------- |
+| [waseemnasir.com](https://www.waseemnasir.com) — Founder site rebuild, 6 design variants  | Next.js 14 · TypeScript | [Live →](https://www.waseemnasir.com)               |
+| [CPG Synergy](https://cpg-synergy-redesign.vercel.app) — CPG agency, 5 variants           | React · Framer Motion   | [Live →](https://cpg-synergy-redesign.vercel.app)   |
+| [Ascend Consulting](https://consulting-firm-phi.vercel.app) — Consulting firm, 3 variants | React · Framer Motion   | [Live →](https://consulting-firm-phi.vercel.app)    |
+| [Ferrante Media](https://ferrante-media-premium.vercel.app) — AI automation agency        | React · TypeScript      | [Live →](https://ferrante-media-premium.vercel.app) |
+| [SOOR Technologies](https://soor-technologies.vercel.app) — Odoo ERP partner, Kuwait      | React · Vite            | [Live →](https://soor-technologies.vercel.app)      |
 
 </details>
 
