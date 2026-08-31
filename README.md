@@ -19,6 +19,40 @@
 ═══════════════════════════════════════════════════════════════════════════════
 -->
 
+```
+        ..:-+#%@@@@@@%%*--:      :-:           waseem@skynetlabs
+     .-*#%%@@@@@%%%%@@@@%#+.     .-:           -----------------
+   -*%@@@@@@@@@@@@@@@@@%@@@#:     --           OS..........: SkynetLabs - AI Automation Studio
+ :#@@@@@@@@@@@@@@@@@@@@@@@@@*.    :-.          Host........: Bali, Indonesia - clients worldwide
+.#@@@@@@@@@@@%####%@@@@@@@@@@*-   :-.          Uptime......: 90+ projects shipped - 16 industries
+*@@@@@@@@@@#*=-::--=+*%@@@@@@@@*. :-:          Shell.......: Claude Code + Codex
+@@@@@@@@%#+=-::......:=+*%@@@@@@#..--          Kernel......: n8n - MCP - FFmpeg - Whisper
+@@@@@@@*=-:.....     ..:-+%@@@@@@#---          Languages...: TypeScript - Python - PHP - Bash
+@@@@@%+--::.........::..:-+#@@@@@@*--.         Frontend....: Next.js 16 - React - Tailwind - R3F
+@@@@#+=++****=--=**#%##*+=-=#@@@@%---.         Voice AI....: ElevenLabs ConvAI - Twilio - Gemini
+@@@@**%%@@@@@%=.-#@@@@%#*+-:-%@@#=.--:         Automation..: n8n - GoHighLevel - Meta CAPI
+%@@@**#%%%%%%#- .=****++=::::*@*++.:=:         CMS.........: WordPress themes + plugins
++%@@+==++====-.  ......   .::*@+== :=-         AEO.........: llms.txt - JSON-LD - AI-search audits
+-*#@+=-:...:::    ..:.    .:-##+-. .=-.        Video.......: FFmpeg + Whisper reel pipeline
+ :+%#=--:-==+++==++---=-::::+*-:.  .=-.        Repos.......: 117 public - MIT / GPLv2
+  -+#*===***#@%%%%%*++#*=--=++:::   -=:
+  .-+#+=+#@%%##**++++*##=-=+*%%%+   -=:        Now running.: voice agents - AEO engines - AI video
+    -##*+*#*++*****=---===+*#%%*:   :=:        Open source.: reelforge - aeo-radar - 44 CC skills
+     -###*+==++***+=---=+*#*=-.     :=:.
+      .-+**+++++++=---=*##+-:.      :=:.....   Web.........: skynetjoe.com - waseemnasir.com
+         :*###%%%%%#####*=-:::...   .=:.....   Email.......: info@skynetjoe.com
+          =*#%%@@@%%#*+=--:::::.:.   :......   Booking.....: calendly.com/skynetlabs
+          .+++**##*+=----:::::...
+       .:=+++++++++===---:::.....
+     :+*#%%+=++++++===----::....
+```
+
+<div align="center">
+<sub><code>waseem@skynetlabs:~$ neofetch</code> &nbsp;·&nbsp; portrait rendered from a real photo, not a generator</sub>
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1a1a2e,75:16213e,100:0f3460&height=260&section=header&text=SkynetLabs&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Voice%20AI%20Agents%20%C2%B7%20AI%20Video%20%C2%B7%20Automation%20%E2%80%94%20we%20save%20you%20time&descSize=18&descAlignY=56&descColor=58a6ff" width="100%" />
