@@ -98,11 +98,11 @@ n8n + AI chains · GoHighLevel · AEO content engines · WhatsApp / IG / Web cha
 
 SkynetLabs is an **AI automation studio**. We're senior builders, not an order-taking agency: you talk to the people writing the code. No 8-week kickoffs, no 12-person approval chains. You tell us what's slowing you down, we ship a working system, you tell us what's wrong, we fix it.
 
-**This build week (July 2026):** shipped the founder site rebuild ([waseemnasir.com](https://www.waseemnasir.com), Next.js 14 + 6 branded design variants), scaling the live voice-calling agent into Phase 2 orchestration, running our **Claude + Codex AI video pipeline** to turn raw clips into branded reels at volume, and keeping the **AEO content engine** (GPT-4.1 + Gemini via n8n) pushing weekly articles, newsletters, and scripts on autopilot.
+**This build week (August 2026):** shipped a **members-and-payments booking platform** onto its real database (live, automation phase 1: capacity caps, join locks, payment chasing, roster announcements), put a **chief-of-staff Slack agent** into production for a founder (daily brief, evening review, weekly planning — proven end-to-end), hardened **SEO + AEO on both our own sites** and deployed it (verified in served HTML, not just committed), and shipped an **animated portfolio with a CV-trained chat agent** for a client. The **Claude + Codex video pipeline** ran all month; the **AEO content engine** kept publishing on autopilot.
 
 Most projects below are **live, deployed builds** — real client systems and demos. A few are marked _Pitched_ or _Open for pilot_; those are proposals and pilots, not yet shipped. We label them honestly.
 
-<sub>📅 <b>Profile last updated: 2026-07-19</b> · refreshed weekly</sub>
+<sub>📅 <b>Profile last updated: 2026-08-31</b> · refreshed weekly</sub>
 
 <a href="https://calendly.com/skynetlabs/schedule-a-free-consultation"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_Strategy_Call-FF6B35?style=for-the-badge&logoColor=white" /></a>
 &nbsp;
@@ -131,7 +131,7 @@ Most projects below are **live, deployed builds** — real client systems and de
 
 ---
 
-## Recent Ships — June–July 2026
+## Recent Ships — August 2026
 
 > Live work from the last few weeks. Click any tile — every link is a deployed, working build.
 
