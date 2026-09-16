@@ -669,4 +669,8 @@ Every repo here is a real project for a real business. No toy demos, no tutorial
   <sub>Real projects — deployed and functional, client work and demos. Star what you like. <b>2026: voice AI pilots open · AI video pipeline live.</b></sub>
 </p>
 
+<p align="center">
+  <sub>Last reviewed: September 2026 · release v2026.09</sub>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1a1a2e,75:16213e,100:0f3460&height=100&section=footer" width="100%" />
