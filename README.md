@@ -36,12 +36,12 @@ Next.js or WordPress, fast, indexed, wired to your booking system. Design decisi
 
 ## Proof, with the receipts
 
-Every number here was re-checked on **2026-09-16**. If it can't be clicked, it isn't listed.
+Every number here was re-checked on **2026-10-25**. If it can't be clicked, it isn't listed.
 
-- **131 public repositories** on this account — 97 active, 34 archived
+- **138 public repositories** on this account — 103 active, 35 archived
 - **3 client sites live right now:** [inspirehealthpt.co](https://inspirehealthpt.co) · [fordesafe.co.uk](https://fordesafe.co.uk) · [kittsrecoveryservices.com](https://kittsrecoveryservices.com)
-- **51 n8n workflows, 47 of them active** on my own instance — I run my stack on the thing I sell
-- **Open-source tools people actually pulled:** [reelforge](https://github.com/waseemnasir2k26/reelforge) (6★) · [fiverr-gig-optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer) (7★)
+- **97 n8n workflows, 56 of them active** on my own instance — I run my stack on the thing I sell
+- **Open-source tools people actually pulled:** [reelforge](https://github.com/waseemnasir2k26/reelforge) (8★) · [fiverr-gig-optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer) (10★)
 - **20 free production n8n workflows** with setup guides: [skynet-automation-pack](https://github.com/waseemnasir2k26/skynet-automation-pack)
 
 ---
@@ -62,8 +62,10 @@ Every number here was re-checked on **2026-09-16**. If it can't be clicked, it i
 
 | Repo                                                                                                | What it is                                                                         | For you if                                          |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------- |
-| **[reelforge](https://github.com/waseemnasir2k26/reelforge)** 6★                                    | Local, free alternative to paid clip tools — one raw take → captioned 9:16 reel    | You publish video and pay per-export somewhere else |
-| **[fiverr-gig-optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer)** 7★              | Claude Code skill that builds a whole gig strategy — niche research, pricing, copy | You sell services on a marketplace                  |
+| **[reelforge](https://github.com/waseemnasir2k26/reelforge)** 8★                                    | Local, free alternative to paid clip tools — one raw take → captioned 9:16 reel    | You publish video and pay per-export somewhere else |
+| **[fiverr-gig-optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer)** 10★             | Claude Code skill that builds a whole gig strategy — niche research, pricing, copy | You sell services on a marketplace                  |
+| **[lead-leak-audit](https://github.com/waseemnasir2k26/lead-leak-audit)** | Finds where your site loses leads: broken forms, silent auto-replies, dead WhatsApp links, chat widgets that never load | You pay for ads and aren't sure every lead arrives |
+| **[free-llm-router](https://github.com/waseemnasir2k26/free-llm-router)** | OpenAI-compatible proxy that chains free LLM tiers with quota tracking and 429 failover | Your n8n or agents die on free-tier rate limits |
 | **[n8n-circuit-breaker-pack](https://github.com/waseemnasir2k26/n8n-circuit-breaker-pack)**         | Spend caps, step caps, kill switches for n8n automations                           | You have (or want) automations running unattended   |
 | **[ai-inbox-triage-starter](https://github.com/waseemnasir2k26/ai-inbox-triage-starter)**           | The email-triage pattern behind a paid retainer build, stripped to a starter       | Your inbox is a full-time job                       |
 | **[skynet-site-system](https://github.com/waseemnasir2k26/skynet-site-system)**                     | Website design playbook — 17 niche token sets, distilled from shipped builds       | You're about to brief a website                     |
@@ -105,7 +107,7 @@ Shell......: Claude Code
 Kernel.....: n8n · MCP · FFmpeg · Whisper
 Voice AI...: ElevenLabs ConvAI · Twilio
 Frontend...: Next.js · React · Tailwind
-Repos......: 131 public · 97 active
+Repos......: 138 public · 103 active
 Web........: skynetjoe.com · waseemnasir.com
 Booking....: calendly.com/skynetlabs
 ```
@@ -118,4 +120,4 @@ Booking....: calendly.com/skynetlabs
 
 **[Book a 30-min call →](https://calendly.com/skynetlabs/schedule-a-free-consultation)** &nbsp;·&nbsp; [skynetjoe.com](https://www.skynetjoe.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/waseemnasir2k26) &nbsp;·&nbsp; info@skynetjoe.com
 
-<sub>Profile last verified 2026-09-16. Live links checked on that date.</sub>
+<sub>Profile last verified 2026-10-25. Live links checked on that date.</sub>
