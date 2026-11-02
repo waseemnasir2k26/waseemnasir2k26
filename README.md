@@ -6,14 +6,14 @@ Stack: n8n · Claude Code · MCP · ElevenLabs · Twilio · Next.js · React · 
        · WordPress · Tailwind · Vercel · Supabase · Stripe · FFmpeg · Whisper
 Keywords: n8n developer for hire, voice AI agent developer, ElevenLabs ConvAI builder, AI automation
           agency, MCP server developer, WhatsApp AI agent, AEO engine, Next.js freelancer, WordPress developer
-Contact: info@skynetjoe.com · calendly.com/skynetlabs/schedule-a-free-consultation
+Contact: waseem@skynetjoe.com · WhatsApp +62 813-1607-7185 · skynetjoe.com
 -->
 
 # Your team is doing work a system should be doing.
 
 I build the system. Phone calls answered, inboxes triaged, follow-ups sent, sites that actually convert — running without anyone babysitting them.
 
-**[Book a 30-min call →](https://calendly.com/skynetlabs/schedule-a-free-consultation)** &nbsp;·&nbsp; [skynetjoe.com](https://www.skynetjoe.com) &nbsp;·&nbsp; info@skynetjoe.com
+**[Message me on WhatsApp →](https://wa.me/6281316077185)** &nbsp;·&nbsp; [skynetjoe.com](https://www.skynetjoe.com) &nbsp;·&nbsp; waseem@skynetjoe.com
 
 ---
 
@@ -36,25 +36,25 @@ Next.js or WordPress, fast, indexed, wired to your booking system. Design decisi
 
 ## Proof, with the receipts
 
-Every number here was re-checked on **2026-10-25**. If it can't be clicked, it isn't listed.
+Every number here was re-checked on **2026-11-02**. If it can't be clicked, it isn't listed.
 
-- **138 public repositories** on this account — 103 active, 35 archived
+- **143 public repositories** on this account — 108 active, 35 archived
 - **3 client sites live right now:** [inspirehealthpt.co](https://inspirehealthpt.co) · [fordesafe.co.uk](https://fordesafe.co.uk) · [kittsrecoveryservices.com](https://kittsrecoveryservices.com)
 - **97 n8n workflows, 56 of them active** on my own instance — I run my stack on the thing I sell
-- **Open-source tools people actually pulled:** [reelforge](https://github.com/waseemnasir2k26/reelforge) (8★) · [fiverr-gig-optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer) (10★)
+- **Open-source tools people actually pulled:** [sitebot-in-a-box](https://github.com/waseemnasir2k26/sitebot-in-a-box) (12★) · [reelforge](https://github.com/waseemnasir2k26/reelforge) (11★) · [fiverr-gig-optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer) (10★)
 - **20 free production n8n workflows** with setup guides: [skynet-automation-pack](https://github.com/waseemnasir2k26/skynet-automation-pack)
 
 ---
 
 ## How this works
 
-**1. 30-minute call.** You describe the thing that eats your week. I tell you if software can kill it, and if I'd be the wrong person to build it.
+**1. A short chat or call.** You describe the thing that eats your week. I tell you if software can kill it, and if I'd be the wrong person to build it.
 
 **2. Fixed quote before anything starts.** Scope in writing, one price, no hourly surprises. Published ladder on [skynetjoe.com](https://www.skynetjoe.com) runs **$250 – $5,000** depending on scope.
 
 **3. You get a working thing, then we fix it.** First version ships in days, not quarters. You break it, I patch it, we repeat until it's boring.
 
-**[→ Book the call](https://calendly.com/skynetlabs/schedule-a-free-consultation)**
+**[→ Message me on WhatsApp](https://wa.me/6281316077185)**
 
 ---
 
@@ -62,8 +62,13 @@ Every number here was re-checked on **2026-10-25**. If it can't be clicked, it i
 
 | Repo                                                                                                | What it is                                                                         | For you if                                          |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------- |
-| **[reelforge](https://github.com/waseemnasir2k26/reelforge)** 8★                                    | Local, free alternative to paid clip tools — one raw take → captioned 9:16 reel    | You publish video and pay per-export somewhere else |
+| **[reelforge](https://github.com/waseemnasir2k26/reelforge)** 11★                                   | Local, free alternative to paid clip tools — one raw take → captioned 9:16 reel    | You publish video and pay per-export somewhere else |
 | **[fiverr-gig-optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer)** 10★             | Claude Code skill that builds a whole gig strategy — niche research, pricing, copy | You sell services on a marketplace                  |
+| **[sitebot-in-a-box](https://github.com/waseemnasir2k26/sitebot-in-a-box)** 12★ | Point it at a website, get a chat widget that answers only from that site's pages, with sources. Local or free LLMs | You want to demo a chatbot on a prospect's own content |
+| **[scopeguard](https://github.com/waseemnasir2k26/scopeguard)** | Reads client messages against your scope of work and lists possible extras with the clause and an estimate | Clients keep adding "one small thing" |
+| **[invoice-chaser](https://github.com/waseemnasir2k26/invoice-chaser)** | Matches Wise, Payoneer or bank CSV payments to open invoices and drafts polite reminders. Never sends on its own | You lose track of who has paid |
+| **[n8n-retainer-report](https://github.com/waseemnasir2k26/n8n-retainer-report)** | Turns n8n execution history into a weekly client email and a monthly one-page report | You sell automation retainers and need to show the value |
+| **[n8n-handover-docs](https://github.com/waseemnasir2k26/n8n-handover-docs)** | Generates client handover docs from n8n workflows, with secrets redacted and a fail-closed gate | You hand n8n builds over to clients |
 | **[lead-leak-audit](https://github.com/waseemnasir2k26/lead-leak-audit)** | Finds where your site loses leads: broken forms, silent auto-replies, dead WhatsApp links, chat widgets that never load | You pay for ads and aren't sure every lead arrives |
 | **[free-llm-router](https://github.com/waseemnasir2k26/free-llm-router)** | OpenAI-compatible proxy that chains free LLM tiers with quota tracking and 429 failover | Your n8n or agents die on free-tier rate limits |
 | **[n8n-circuit-breaker-pack](https://github.com/waseemnasir2k26/n8n-circuit-breaker-pack)**         | Spend caps, step caps, kill switches for n8n automations                           | You have (or want) automations running unattended   |
@@ -88,9 +93,9 @@ Everything public here is real work — client builds, demos I made to pitch, an
 
 **More live builds and demos** — [full portfolio on skynetjoe.com](https://www.skynetjoe.com/portfolio) · [free tools](https://skynetlabs-toolkit.vercel.app)
 
-**Healthcare / wellness:** [hepatologia-course](https://hepatologia-course.vercel.app) · [axis-rx-funnel](https://axis-rx-funnel.vercel.app) · [glp2-telehealth](https://glp2-telehealth.vercel.app) · [healthcare-landing](https://healthcare-landing-murex.vercel.app) · [caringhands-homecare](https://caringhands-homecare.vercel.app)
+**Healthcare / wellness:** [glp2-telehealth](https://glp2-telehealth.vercel.app) · [healthcare-landing](https://healthcare-landing-murex.vercel.app) · [caringhands-homecare](https://caringhands-homecare.vercel.app)
 
-**Logistics / maritime / trade:** [load-broker-portal](https://load-broker-portal.vercel.app) · [limenis-website](https://limenis-website.vercel.app) · [whats-the-move](https://whats-the-move-nine.vercel.app) · [mainclim-website](https://mainclim-website.vercel.app)
+**Logistics / maritime / trade:** [limenis-website](https://limenis-website.vercel.app) · [whats-the-move](https://whats-the-move-nine.vercel.app) · [mainclim-website](https://mainclim-website.vercel.app)
 
 **Commerce / real estate / consulting:** [mn-realty-co](https://mn-realty-co.vercel.app) · [ksa-shoes-store](https://ksa-shoes-store-five.vercel.app) · [recipe-website](https://recipe-website-sand-theta.vercel.app) · [ecommerce-website](https://ecommerce-website-gray-gamma.vercel.app) · [cpg-synergy-redesign](https://cpg-synergy-redesign.vercel.app) · [consulting-firm](https://consulting-firm-phi.vercel.app) · [soor-technologies](https://soor-technologies.vercel.app)
 
@@ -107,9 +112,9 @@ Shell......: Claude Code
 Kernel.....: n8n · MCP · FFmpeg · Whisper
 Voice AI...: ElevenLabs ConvAI · Twilio
 Frontend...: Next.js · React · Tailwind
-Repos......: 138 public · 103 active
+Repos......: 143 public · 108 active
 Web........: skynetjoe.com · waseemnasir.com
-Booking....: calendly.com/skynetlabs
+Contact....: waseem@skynetjoe.com
 ```
 
 </details>
@@ -118,6 +123,6 @@ Booking....: calendly.com/skynetlabs
 
 **Something in your week that a machine should be doing?**
 
-**[Book a 30-min call →](https://calendly.com/skynetlabs/schedule-a-free-consultation)** &nbsp;·&nbsp; [skynetjoe.com](https://www.skynetjoe.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/waseemnasir2k26) &nbsp;·&nbsp; info@skynetjoe.com
+**[Message me on WhatsApp →](https://wa.me/6281316077185)** &nbsp;·&nbsp; [skynetjoe.com](https://www.skynetjoe.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/waseemnasir2k26) &nbsp;·&nbsp; waseem@skynetjoe.com
 
-<sub>Profile last verified 2026-10-25. Live links checked on that date.</sub>
+<sub>Profile last verified 2026-11-02. Live links checked on that date.</sub>
